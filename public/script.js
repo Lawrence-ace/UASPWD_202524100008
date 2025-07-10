@@ -21,3 +21,4 @@ document.getElementById('contactForm').addEventListener('submit', async function
   document.getElementById('responseMsg').textContent = text;
   form.reset();
 });
+
